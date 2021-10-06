@@ -15,5 +15,9 @@
   },
   "devDependencies": {
     "np": "7.5.0"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
   }
 }
