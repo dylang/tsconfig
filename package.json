@@ -5,7 +5,10 @@
   "repository": "https://github.com/dylang/tsconfig",
   "author": "Dylan Greene",
   "license": "MIT",
-  "files": ["node12", "node14"],
+  "files": [
+    "node12",
+    "node14"
+  ],
   "dependencies": {
     "@tsconfig/node12": "*",
     "@tsconfig/node14": "*"
