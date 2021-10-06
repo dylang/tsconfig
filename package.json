@@ -1,0 +1,14 @@
+{
+  "name": "@dylang/tsconfig",
+  "version": "1.0.0",
+  "description": "tsconfig for projects",
+  "main": "index.js",
+  "repository": "https://github.com/dylang/tsconfig",
+  "author": "Dylan Greene",
+  "license": "MIT",
+  "files": ["node12", "node14"],
+  "dependencies": {
+    "@tsconfig/node12": "*",
+    "@tsconfig/node14": "*"
+  }
+}
