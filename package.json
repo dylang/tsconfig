@@ -1,6 +1,6 @@
 {
   "name": "@dylang/tsconfig",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "tsconfig for projects",
   "repository": "https://github.com/dylang/tsconfig",
   "author": "Dylan Greene",
